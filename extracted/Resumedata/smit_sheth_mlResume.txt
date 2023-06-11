@@ -1,0 +1,1 @@
+{'training', 'css', 'xml', 'flask', 'ai', 'python', 'opencv', 'information technology', 'statistics', 'testing', 'metrics', 'pytorch', 'android', 'workflow', 'architecture', 'java', 'machine learning', 'cloud', 'cross functional', 'tensorflow', 'aws', 'html', 'security', 'mysql', 'keras'}

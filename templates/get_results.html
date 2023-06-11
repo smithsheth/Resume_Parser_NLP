@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Calculator</title>
+</head>
+<body>
+    <h1>Resume Screener</h1>
+    <p>Click to get results</p>
+    <form action="/checkResume" method="POST">
+        <input type="submit" name="Get Results">
+    </form>
+    <div>
+    {% if listofdict is defined and listofdict|length %}
+    {% for key,value in listofdict.items() %}
+    {{key}}
+    {{value | safe}}
+
+    {% endfor %}
+    {% else %}
+       Results will appear here
+    {% endif %}    
+   
+    </div>
+</body>
+</html>

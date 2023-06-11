@@ -1,0 +1,1 @@
+{'training', 'Java', 'PyTorch', 'experimental', 'Tensorflow', 'startup', 'computer science', 'industry experience', 'AWS', 'MXNet', 'workflows', 'architecture', 'technical', 'machine learning', 'product management', 'Python', 'design', 'C', 'big data', 'Programming'}

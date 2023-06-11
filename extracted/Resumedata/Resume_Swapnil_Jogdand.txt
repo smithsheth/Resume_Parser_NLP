@@ -1,0 +1,1 @@
+{'css', 'website', 'database', 'data analytics', 'technical skills', 'ai', 'windows', 'python', 'computer science', 'c', 'operating systems', 'linux', 'analytics', 'javascript', 'marketing', 'operations', 'technical', 'java', 'presentation', 'english', 'cloud', 'plan', 'data analysis', 'system', 'html', 'github', 'mysql', 'php', 'programming', 'analysis'}

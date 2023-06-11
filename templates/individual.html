@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Calculator</title>
+</head>
+<body>
+    <h1>Individual Screener</h1>
+    <p>Click to get results</p>
+    <form action="/checkDetails" method="POST" id="usrform">
+        <h4>Job Description</h4>
+        <textarea rows="4" cols="50" name="job"></textarea>
+        <h4>Resume Details</h4>
+        <textarea rows="4" cols="50" name="res"></textarea>
+        <br>
+        <br>
+        <input type="submit" name="btn">
+    </form>
+    <br>
+    <br> <br>
+    <br>
+    <div>
+        <h2>Your Resume matches the job by <b>{{percentage}}</b> %  </h2>
+
+   
+    </div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+{'css', 'database', 'technical skills', 'servers', 'engineering', 'email', 'certification', 'python', 'information technology', 'c', 'sql', 'technical', 'java', 'oracle', 'english', 'cloud', 'html', 'design', 'time management', 'mysql', 'php', 'programming', 'mobile'}
